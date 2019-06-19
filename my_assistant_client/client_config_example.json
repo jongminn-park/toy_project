@@ -1,0 +1,6 @@
+{
+	"google_geolocate" : {
+		"APP_HOST" : "https://www.googleapis.com/geolocation/v1/geolocate?key=",
+		"APP_KEY" : "type your app_key here"
+	}
+}

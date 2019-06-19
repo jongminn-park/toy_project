@@ -1,0 +1,23 @@
+{
+  "WEATHER_SVC": {
+	  "API_HOST": "https://api.openweathermap.org/data/2.5/",
+	  "APP_KEY": "",
+	  "FORECAST_5DAY_3HOUR": "forecast",
+	  "CURRENT_WEATHER": "weather"
+  },
+  "ROUTING_SVC": {
+	  "API_HOST": "https://naveropenapi.apigw.ntruss.com/map-direction/v1/driving",
+	  "CLIENT_ID_HEADER": "",
+	  "CLIENT_SECRET_HEADER": "",
+	  "CLIENT_ID": "",
+	  "CLIENT_SECRET": ""
+  },
+  "GEOCODING_SVC": {
+	  "API_HOST": "https://maps.googleapis.com/maps/api/geocode/json",
+	  "APP_KEY": ""
+  },
+  "TMP_GEO": {
+	  "lat": "",
+	  "lng": ""
+  }
+}
